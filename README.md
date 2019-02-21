@@ -2,9 +2,9 @@
 A program that given an image makes a mosaic using tiny images.
 
 <p align="center">
-<img src="https://i.imgur.com/eT3uNpD.jpg" width="420" height="315" style="float: right;">
-<img src="https://i.imgur.com/tgncO5D.jpg?1" width="420" height="315" style="float: right;">
-<img src="https://i.imgur.com/lME7nRJ.jpg?1" width="420" height="315" style="float: right;">
+<img src="https://i.imgur.com/eT3uNpD.jpg" width="350" height="233" style="float: right;">
+<img src="https://i.imgur.com/tgncO5D.jpg?1" width="350" height="233" style="float: right;">
+<img src="https://i.imgur.com/lME7nRJ.jpg?1" width="350" height="233" style="float: right;">
 </p>
 
 ## Descriptio
