@@ -57,10 +57,10 @@ You can use the [CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html) dataset to 
 ## Presentation
 
 <p align="center">
-<img src="https://i.imgur.com/lz0YaMy.jpg" width="400" height="300" style="float: right;">
-<img src="https://i.imgur.com/S4IBo5v.jpg?1" width="400" height="300" style="float: right;">
-<img src="https://i.imgur.com/sSPGEgV.jpg" width="400" height="300" style="float: right;">
-<img src="https://i.imgur.com/xZw8BEK.jpg?1" width="400" height="300" style="float: right;">
-<img src="https://i.imgur.com/Wnbq3yJ.jpg" width="400" height="300" style="float: right;">
-<img src="https://i.imgur.com/SPzXytE.jpg?1" width="400" height="300" style="float: right;">
+<img src="https://i.imgur.com/lz0YaMy.jpg" width="400" height="280" style="float: right;">
+<img src="https://i.imgur.com/S4IBo5v.jpg?1" width="400" height="280" style="float: right;">
+<img src="https://i.imgur.com/sSPGEgV.jpg" width="400" height="280" style="float: right;">
+<img src="https://i.imgur.com/xZw8BEK.jpg?1" width="400" height="280" style="float: right;">
+<img src="https://i.imgur.com/A8Zlfld.jpg" width="400" height="280" style="float: right;">
+<img src="https://i.imgur.com/1p2gbWX.jpg" width="400" height="280" style="float: right;">
 </p>
