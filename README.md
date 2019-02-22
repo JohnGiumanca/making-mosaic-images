@@ -47,7 +47,11 @@ params.afiseazaPieseMozaic = 0;
 params.modAranjare = 'caroiaj';
 ```
 
-* on line 35 set the piece choosing criteria: 'aleator' for random, 'distantaCuloareMedie' for smallest distance between average collors, 'distantaCuloareMedieSiVeciniDiferiti' same but different neighbours and 'pieseHexagonale' same but hexagonal shape
+* on line 35 set the piece choosing criteria: 
+  * 'aleator' for random
+  * 'distantaCuloareMedie' for smallest distance between average collors
+  * 'distantaCuloareMedieSiVeciniDiferiti' same but different neighbours
+  * 'pieseHexagonale' same but hexagonal shape
 ```Matlab
 params.criteriu = 'pieseHexagonale';
 ```
